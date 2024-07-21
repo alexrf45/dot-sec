@@ -1,14 +1,14 @@
-session_name: dev
+session_name: sec
 windows:
-  - window_name: k3s-config
+  - window_name: local
     layout: tiled
     panes:
-      - cd ~/home-lab/kubernetes/
-  - window_name: k9s
+      - cd HTB/ 
+  - window_name: vpn
     layout: tiled
     panes:
-      - k9s
+      - htb
   - window_name: notes
     layout: tiled
     panes:
-      - vim ~/brain-child/fr3d/
+      - vim ~/notes

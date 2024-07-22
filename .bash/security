@@ -17,5 +17,3 @@ alias engagement='mkdir -p {recon,www,exploit,pivot,report} '
 
 #tools
 alias bfac='docker run -it --rm secsi/bfac --url $1'
-alias bloodhound='docker compose --env-file $HOME/ctf-repo/.env -f $HOME/.local/Bloodhound-Docker/docker-compose.yml up -d'
-alias bloodhound-down='docker compose --env-file $HOME/ctf-repo/.env -f $HOME/.local/Bloodhound-Docker/docker-compose.yml down'

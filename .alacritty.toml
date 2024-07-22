@@ -1,5 +1,5 @@
 import = [
-    "~/.config/alacritty/nord.toml"
+    "~/.config/alacritty/decaf.toml"
 ]
 
 [shell]

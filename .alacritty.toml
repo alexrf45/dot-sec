@@ -1,5 +1,5 @@
 import = [
-    "~/.config/alacritty/decaf.toml"
+    "~/.config/alacritty/htb.toml"
 ]
 
 [shell]
@@ -26,10 +26,10 @@ history = 20000
 [font]
 
 #normal = { family="Hack" , style = "Bold"}
-#normal = { family="JetBrains Mono" , style = "Bold"}
+normal = { family="JetBrains Mono" , style = "Bold"}
 #normal = { family="Iosevka Nerd Font Propo" , style = "Heavy"}
 #normal = { family="Agave Nerd Font" }
-normal = { family="MesloLGL Nerd Font" , style="Bold" }
+#normal = { family="MesloLGL Nerd Font" , style="Bold" }
 size = 13
 
 [selection]

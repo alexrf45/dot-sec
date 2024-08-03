@@ -8,3 +8,7 @@ windows:
     layout: tiled
     panes:
       - htb
+  - window_name: spotify
+    layout: tiled
+    panes:
+      - ncspot
